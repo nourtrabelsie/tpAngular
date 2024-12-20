@@ -1,0 +1,55 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "mohamedbenMohamed@gmail.com",
+      "password": "password",
+      "username": "ben mohamed",
+      "name": "mohamed",
+      "role": "ROLE_AMDIN"
+    },
+    {
+      "email": "wiembm@gmail.com",
+      "password": "password1",
+      "surname": "wiwi",
+      "name": "wiem",
+      "role": "ROLE_USER",
+      "id": 2
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "password1",
+      "id": 3
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fsfsf",
+      "id": 4
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fsfsf",
+      "id": 5
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fs",
+      "id": 6
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fs",
+      "id": 7
+    },
+    {
+      "email": "wiembm@gmail.com",
+      "password": "dfdf",
+      "id": 8
+    },
+    {
+      "email": "wiembm@gmail.com",
+      "password": "dfdf",
+      "id": 9
+    }
+  ]
+}
